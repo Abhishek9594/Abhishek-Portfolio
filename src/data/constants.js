@@ -215,7 +215,7 @@ export const projects = [
     description:
       "Designed and developed the E-Commerce project, a simple E-commerce app with react js and redux toolkit",
     image:
-      "https://private-user-images.githubusercontent.com/83911644/305699652-e6daca1f-092d-408f-8862-1cd1b7caff37.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgyNDc3MTcsIm5iZiI6MTcwODI0NzQxNywicGF0aCI6Ii84MzkxMTY0NC8zMDU2OTk2NTItZTZkYWNhMWYtMDkyZC00MDhmLTg4NjItMWNkMWI3Y2FmZjM3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE4VDA5MTAxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyZWJiYWNlYTBjN2MzYmI2NWVhZWJhZjE1OTdlZTM3YjViMmNkOGNjY2JlZmM5ZjhlZjY4NjFhMGNlYjgyNTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lZDlM09HjPfSjlcLl0UASnkoCDFFBBjScATiRGMYP2I",
+      "https://raw.githubusercontent.com/Abhishek9594/E-commerce-redux-toolkit/main/public/Screenshot%20(395).png",
     tags: ["React Js", "Redux Toolkit", "Bootstrap"],
     category: "web app",
     github: "https://github.com/Abhishek9594/E-commerce-redux-toolkit",
